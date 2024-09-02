@@ -277,7 +277,8 @@
   },
   {
     "name": "Precision-forged Dagger",
-    "min": "When actively attacking enemies with [▼Move], P.ATK increases by 3-15%."
+    "min": "When actively attacking enemies with [▼Move], P.ATK increases by 3%.",
+    "max": "When actively attacking enemies with [▼Move], P.ATK increases by 15%."
   },
   {
     "name": "Dueling Dagger",
