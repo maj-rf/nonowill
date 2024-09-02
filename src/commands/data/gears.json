@@ -1,0 +1,409 @@
+[
+  {
+    "name": "Maverick's Cloak",
+    "min": "When there are no allies within 4 tiles around the character, ATK and DEF increase by 4% and Crit increases by 10%.",
+    "max": "When there are no allies within 3 tiles around the character, ATK and DEF increase by 12% and Crit increases by 20%.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Lone-Walker-Cape_card.webp"
+  },
+  {
+    "name": "True Lens",
+    "min": "Increases P.ATK by 1%. When attacking from [Highland], Crit increases by 12%.",
+    "max": "Increases P.ATK by 5%. When attacking from [Highland], Crit increases by 20%.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Precision-Ruler.webp"
+  },
+  {
+    "name": "Flying Blade Armguard",
+    "min": "Sudden Strike: [Instant]. Deals [Piercing DMG] equal to 12% of the enemy's HP. Can be used up to 2 times per battle. CD: 3 turns.",
+    "max": "Sudden Strike: [Instant]. Deals [Piercing DMG] equal to 15% of the enemy's HP. Can be used up to 3 times per battle. CD: 1 turn.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Flying-Blade-Arm-Guard_card.webp"
+  },
+  {
+    "name": "Berserk Incense",
+    "min": "Gains [Rage Awakening]. Effect: Increases Movement by 1 tile and DMG by 10% for 2 turns. CD: 3 turns. Can be used up to 1 time per battle.",
+    "max": "Gains [Rage Awakening]. Effect: Increases movement by 1 tile and DMG by 20% for 2 turns. CD: 3 turns. Can be used up to 2 times per battle.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Berserk-Incense_card.webp"
+  },
+  {
+    "name": "Crystal Burst Armor",
+    "min": "Increases HP by 2%. Strike Back deals 10% more DMG.",
+    "max": "Increases HP by 10%. Strike Back deals 25% more DMG.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Crystal-Burst-Armor_card.webp"
+  },
+  {
+    "name": "Cooling Powder",
+    "min": "Gains immunity to [🚫Healing Received].",
+    "max": "Increases Healing Received 16% and gains immunity to [🚫Healing Received].",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Wind-Dust_card.webp"
+  },
+  {
+    "name": "Spring Pill",
+    "min": "[Instant]. Heals the character for 20% HP and dispels 1 [Debuff]. Can be used up to 2 times per battle. CD: 8 turns.",
+    "max": "[Instant]. Heals the character for 30% HP and dispels 2 [Debuff]. Can be used up to 2 times per battle. CD: 3 turns.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Spring-Breeze_card.webp"
+  },
+  {
+    "name": "Old Scrolls of Auguste",
+    "min": "[Instant] Grants one other ally 1 random [Level 2 Buff] and [▲SPD I] for 2 turns. Can be used up to 3 times per battle. Effect CD: 4 turns.",
+    "max": "[Instant] Grants one other ally 1 random [Level 2 Buff] and [▲SPD I] for 2 turns. Can be used up to 5 times per battle. Effect CD: 2 turns.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Augusts-Old-Notes_card.webp"
+  },
+  {
+    "name": "Beheading Machete",
+    "min": "When attacking from [Highland], ATK increases by 6%.",
+    "max": "When attacking from [Highland], ATK increases by 15%.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Beheading-Machete_card.png"
+  },
+  {
+    "name": "Irian Combat Bow",
+    "min": "Increases P.ATK by 1%. Deals 10% more DMG when not in the character's turn.",
+    "max": "Increases P.ATK by 5%. Deals 20% more DMG when not in the character's turn.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Iria-Combat-Bow.webp"
+  },
+  {
+    "name": "Skeleton Staff",
+    "min": "Increases HP by 2%. Recovers 1 NRG when an ally is defeated in battle. The effect can be triggered up to 1 time per round.",
+    "max": "Increases HP by 10%. Recovers 1 NRG when an ally is defeated in battle. The effect can be triggered up to 1 time per round.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Skeleton-Staff_card.webp"
+  },
+  {
+    "name": "Doomsday Scythe",
+    "min": "When launching a [Back Attack], DMG increases by 12%.",
+    "max": "When launching a [Back Attack], DMG increases by 25%.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Doomsday-Scythe_card.webp"
+  },
+  {
+    "name": "Ever-Burning Blade",
+    "min": "After dealing DMG with single-target active attacks, gains a 50% chance to inflict [Scorch] on the target, which can be triggered up to 1 time per round. Deals 20% more DMG to the enemies with [Scorch].",
+    "max": "After dealing DMG with single-target active attacks, gains a 100% chance to inflict [Scorch] on the target, which can be triggered up to 1 time per round. Deals 20% more DMG to the enemies with [Scorch].",
+    "img": "https://swordofconvallaria.co/gear/1043/"
+  },
+  {
+    "name": "Senator Swift Sword",
+    "min": "Increases HP by 3%. After dealing DMG with single-target attacks, inflicts [▼Move I] on the target for 1 turn.",
+    "max": "Increases HP by 15%. After dealing DMG with single-target attacks, inflicts [▼Move 1] on the target for 1 turn.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Senators-Swift-Sword_card.webp"
+  },
+  {
+    "name": "Skeleton Spear",
+    "min": "Increases P.ATK by 2%. Before initiating a single-target attack, additionally deals [Piercing DMG] equal to 10% P.ATK to the target.",
+    "max": "Increases P.ATK by 10%. Before initiating a single-target attack, additionally deals [Piercing DMG] equal to 10% P.ATK to the target.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Skeleton-Spear_card.webp"
+  },
+  {
+    "name": "Nameless Staff",
+    "min": "Increases Movement by 1 tile. Increases Crit by 3% if moved no less than 3 tiles before attacking.",
+    "max": "Increases Movement by 1 tile. Increases Crit by 15% if moved no less than 3 tiles before attacking.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Nameless-Staff_card.webp"
+  },
+  {
+    "name": "Tuning Hammer",
+    "min": "Increases P.ATK by 5%. Dispels 1 [Buff] from the target before attacking.",
+    "max": "Increases P.ATK by 10%. Dispels 2 [Buffs] from the target before attacking.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Tuning-Hammer_card.webp"
+  },
+  {
+    "name": "Longbow of Martyrs",
+    "min": "Increases P.ATK by 2%. After single-target Active Attack deals DMG, inflicts [Longbow of Martyrs] for 1 turn. Effect: [Debuff] Increases DMG taken by 10%.",
+    "max": "Increases P.ATK by 10%. After single-target Active Attack deals DMG, inflicts [Longbow of Martyrs] for 1 turn. Effect: [Debuff] Increases DMG taken by 10%.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Heroic-Longbow.webp"
+  },
+  {
+    "name": "Star-Raid Crossbow",
+    "min": "Increases Crit by 6%. If a single-target Active Attack deals Crit DMG, there is a 50% chance to additionally deal 20% of the character's P.ATK as [Piercing DMG] to the target.",
+    "max": "Increases Crit by 15%. If a single-target Active Attack deals Crit DMG, there is a 100% chance to additionally deal 20% of the character's P.ATK as [Piercing DMG] to the target.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Star-Raid-Crossbow_card.webp"
+  },
+  {
+    "name": "Focus Wand",
+    "min": "When [Unharmed], increases the maximum range of [Single-target Skills] by 1 tile and increases M.ATK by 3% when launching a single-target attack.",
+    "max": "When [Unharmed], increases the maximum range of [single-target skills] by 1 tile and increases M.ATK by 15% when launching a single-target attack.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Focus-Staff.webp"
+  },
+  {
+    "name": "Resentment Broom",
+    "min": "Increases [AoE DMG] by 15%. After dealing DMG with an Active Attack, there is a 25% chance to inflict [Life Loss] equal to 20% M.ATK on the target for 1 turn.",
+    "max": "Increases [AoE DMG] by 15%. After dealing DMG with an Active Attack, there is a 50% chance to inflict [Life Loss] equal to 20% M.ATK on the target for 1 turn.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Spite-Broom.webp"
+  },
+  {
+    "name": "Space-time Ring",
+    "min": "[Instant] Teleports the character behind an ally and increases ATK by 2%.",
+    "max": "[Instant] Teleports the character behind any ally and increases ATK by 10%.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/The-Lord-of-the-Rings_card.webp"
+  },
+  {
+    "name": "Roaring Flint",
+    "min": "[Instant] Deals fire [Piercing DMG] equal to 10% of the character's HP to all enemies within 2 tiles around the target. Can be used up to 1 time per battle.",
+    "max": "[Instant] Deals fire [Piercing DMG] equal to 20% of the character's HP to all enemies within 2 tiles around the target. Can be used up to 2 time per battle. CD: 3 turns.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Burning-Flint_card.webp"
+  },
+  {
+    "name": "Denial Hammer",
+    "min": "When charging, deals 5% more DMG. If targets who have lower HP than the character are knocked back, pushes them back by 1 more tile.",
+    "max": "When charging, deals 25% more DMG. If targets who have lower HP than the character are knocked back, pushes them back by 1 more tile.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Denial-Hammer_card.webp"
+  },
+  {
+    "name": "Mysterious Deflection Device",
+    "min": "Decreases the DMG from [Ranged Attacks] by 4%.",
+    "max": "Decreases the DMG from [Ranged Attacks] by 12%.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Mysterious-Deflection-Device_card.webp"
+  },
+  {
+    "name": "Mystery Guardian",
+    "min": "When attacked from the [front], gains 5% bonus P.DEF and [🚫Defense Attribute Debuff].",
+    "max": "When attacked from the [front], gains 25% bonus P.DEF and [🚫Defense Attribute Debuff].",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Mystery-Guard_card.webp"
+  },
+  {
+    "name": "Fancy Hat",
+    "min": "Gains [Immunity to Disrupt]. When [Healthy], M.DEF increases by 3%.",
+    "max": "Gains [Immunity to Disrupt]. When [Healthy], M.DEF increases by 15%.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Fancy-Hat_card.webp"
+  },
+  {
+    "name": "Newborn Blade",
+    "min": "Increases HP by 5%. Grants bonus P.ATK equal to 3% HP at the start of the battle.",
+    "max": "Increases HP by 10%. Grants bonus P.ATK equal to 6% HP at the start of the battle.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/New-Blade_card.webp"
+  },
+  {
+    "name": "Void Stab",
+    "min": "Increases Crit by 3%. After using the skill, gains 1 stack of [Void]. Effect: Increases Crit DMG by 5% and can stack up to 6 times. The effect lasts until the end of the next 1 turn.",
+    "max": "Increases Crit by 15%. After using the skill, gains 1 stack of [Void]. Effect: Increases Crit DMG by 5% and can stack up to 6 times. The effect lasts until the end of the next 2 turns.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Thorn-of-Nothingless_card.webp"
+  },
+  {
+    "name": "Double-Sided Halberd",
+    "min": "Increases P.ATK by 5%. For each target hit when attacking, increases DMG by 3%, up to 9%.",
+    "max": "Increases P.ATK by 5%. For each target hit when attacking, increases DMG by 38%, up to 24%.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Double-Headed-Halberd_card.webp"
+  },
+  {
+    "name": "Pendant Halberd",
+    "min": "Increases HP by 2%. Before taking a single-target attack, gains 10% bonus ATK and DEF.",
+    "max": "Increases HP by 10%. Before taking a single-target attack, gains 10% bonus ATK and DEF.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Pendant-Halberd_card.webp"
+  },
+  {
+    "name": "Brutal Axe",
+    "min": "Increases HP by 3%. When attacking, if the enemy's HP percentage is higher than the character, ignores 20% of the target's DEF.",
+    "max": "Increases HP by 10%. When attacking, if the enemy's HP percentage is higher than the character, ignores 40% of the target's DEF.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Brutal-Axe_card.webp"
+  },
+  {
+    "name": "Hollow Axe",
+    "min": "Increases DEF by 5%. Gains bonus P.ATK equal to 5% P.DEF and M.DEF at the start of the battle.",
+    "max": "Increases DEF by 10%. Gains bonus P.ATK equal to 10% P.DEF and M.DEF at the start of the battle.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Hollow-Axe_card.webp"
+  },
+  {
+    "name": "Starry Sky Heritage",
+    "min": "Increases HP by 5%. Grants bonus M.ATK equal to 3% HP at the start of the battle.",
+    "max": "Increases HP by 10%. Grants bonus M.ATK equal to 6% HP at the start of the battle.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Star-Legacy.webp"
+  },
+  {
+    "name": "Reorganized Cube",
+    "min": "Increases Healing Effect by 3%. When using a skill on an ally, additionally dispels 1 [Debuff].",
+    "max": "Increases Healing Effect by 15%. When using a skill on an ally, additionally dispels 1 [Debuff].",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Reorganized-Cube_card.webp"
+  },
+  {
+    "name": "Feast Axe",
+    "min": "If the target's HP percentage is lower than the character's when attacking, increases ATK by 10%. The character recovers 20% HP when defeating an enemy. CD: 3 turns.",
+    "max": "If the target's HP percentage is lower than the character's when attacking, increases ATK by 20%. The character recovers 35% HP when defeating an enemy. CD: 1 turns.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Feast-Axe_card.webp"
+  },
+  {
+    "name": "Shroud of Void",
+    "min": "[Instant] Decreases Magical DMG taken by 50%, which can be activated up to 1 time. The effect lasts for 2 turns and can be used up to 1 time per battle.",
+    "max": "[Instant] Decreases Magical DMG taken by 70%, which can be activated up to 3 times. The effect lasts for 2 turns and can be used up to 1 time per battle.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Void-Curtain_card.webp"
+  },
+  {
+    "name": "Luxite Greatshield",
+    "min": "Gains a [Physical Shield] equal to 40% HP for 2 turns. This effect cannot be dispelled. Can be used up to 1 time per battle",
+    "max": "Gains a [Physical Shield] equal to 60% HP for 2 turns. This effect cannot be dispelled. Can be used up to 2 times per battle. CD: 3 turns.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Luxite-Greatshield_card.webp"
+  },
+  {
+    "name": "Whale Hunter",
+    "min": "After dealing DMG with single-target active attacks, gains a 50% chance to inflict [Infection] on the target, which can be triggered up to 1 time per round. The character deals 20% more DMG to the enemies with [Infection].",
+    "max": "After dealing DMG with single-target active attacks, gains a 100% chance to inflict [Infection] on the target, which can be triggered up to 1 time per round. The character deals 20% more DMG to the enemies with [Infection].",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Whale-Hunting.webp"
+  },
+  {
+    "name": "Meteor Line",
+    "min": "Increases P.ATK by 1%. After dealing DMG with single-target attacks, inflicts 1 random [Level 1 Debuff] for 2 turns.",
+    "max": "Increases P.ATK by 5%. After dealing DMG with single-target attacks, inflicts 2 random [Level 1 Debuff] for 2 turns.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Falling-Star.webp"
+  },
+  {
+    "name": "Guardian's Will",
+    "min": "Increases HP by 5%. When having [Shield], increases DEF by 20%.",
+    "max": "Increases HP by 10%. When having [Shield], increases DEF by 40%, and decreases DMG taken by 10%..",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Guardians-Will_card.webp"
+  },
+  {
+    "name": "Melee Mega Crossbow",
+    "min": "Minimum Range -1, increases DMG by 16%. For each 1 additional tile away from the target (Distance for Adjacent Tiles counts as 0), DMG dealt decreases by 8%, up to a reduction of 32%.",
+    "max": "Minimum Range -1, increases DMG by 32%. For each 1 additional tile away from the target (Distance for Adjacent Tiles counts as 0), DMG dealt decreases by 5%, up to a reduction of %20.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Melee-Mega-Crossbow_card.webp"
+  },
+  {
+    "name": "The Silent Guard",
+    "min": "When actively attacked, DEF increases by 10%. The next attack deals 15% more DMG.",
+    "max": "When actively attacked, DEF increases by 30%. The next attack deals 25% more DMG.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/The-Silent-Guard_card.webp"
+  },
+  {
+    "name": "Diffusing Prism",
+    "min": "Increases MATK by 5%. Upon casting AoE Attack, for each 1 target hit, increases [Magical DMG] and [Piercing DMG] dealt by 5%, up to 10%.",
+    "max": "Increases MATK by 10%. Upon casting AoE Attack, for each 1 target hit, increases [Magical DMG] and [Piercing DMG] dealt by 10%, up to 20%.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Diffusing-Prism_card.webp"
+  },
+  {
+    "name": "Origin Hourglass",
+    "min": "Increases P.ATK and M.ATK by 2%. Grants immunity against [▼Move] and [▼SPD].",
+    "max": "Increases P.ATK and M.ATK by 8%. Grants immunity against [▼Move] and [▼SPD].",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Origin-Hourglass_card.webp"
+  },
+  {
+    "name": "Hunter's Intuition",
+    "min": "When [Alert] is triggered, deals 5% more DMG. Moreover, if a foe uses a skill within range of the [Alert], it will also be triggered.",
+    "max": "When [Alert] is triggered, deals 25% more DMG. Moreover, if a foe uses a skill within range of the [Alert], it will also be triggered.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Hunters-Intuition_card.webp"
+  },
+  {
+    "name": "Precision-forged Dagger",
+    "min": "When actively attacking enemies with [▼Move], P.ATK increases by 3-15%."
+  },
+  {
+    "name": "Dueling Dagger",
+    "min": "When attacked from [front or side], P.DEF increases by 5%.",
+    "max": "When attacked from [front or side], P.DEF increases by 25%.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Duel-Dagger_card.webp"
+  },
+  {
+    "name": "Ceremonial Knife",
+    "min": "When launching a [Back Attack], Crit increases by 12%.",
+    "max": "When launching a [Back Attack], Crit increases by 20%."
+  },
+  {
+    "name": "Sharpe Blade Spear",
+    "min": "When actively attacking enemies with 3 or more [Debuffs], P.ATK increases by 3%.",
+    "max": "When actively attacking enemies with 3 or more [Debuffs], P.ATK increases by 15%."
+  },
+  {
+    "name": "Guardian Spear",
+    "min": "Increases HP by 4%.",
+    "max": "Increases HP by 12%."
+  },
+  {
+    "name": "Armor-piercing Spear",
+    "min": "When attacking enemies with a [Shield], ATK increases by 6%.",
+    "max": "When attacking enemies with a [Shield], ATK increases by 15%."
+  },
+  {
+    "name": "Formidable Axe",
+    "min": "When attacking from [Highland], Crit increases by 5%.",
+    "max": "When attacking from [Highland], Crit increases by 25%."
+  },
+  {
+    "name": "Antimagic Axe",
+    "min": "After actively attacking and dealing DMG, has a 60% chance to dispel 1 [Buff] on the target. CD: 2 turns.",
+    "max": "After actively attacking and dealing DMG, has a 100% chance to dispel 2 [Buffs] on the target. CD: 1 turn."
+  },
+  {
+    "name": "Balanced Heavy Axe",
+    "min": "When [Healthy], ATK increases by 6%.",
+    "max": "When [Healthy], ATK increases by 12%."
+  },
+  {
+    "name": "Vlderian Longbow",
+    "min": "Before a single-target attack, if the distance to the target is 4 tiles or more, Crit increases by 5%.",
+    "max": "Before a single-target attack, if the distance to the target is 4 tiles or more, Crit increases by 25%."
+  },
+  {
+    "name": "Steel Crossbow",
+    "min": "Attacks ignore 12% of the target's DEF.",
+    "max": "Attacks ignore 25% of the target's DEF."
+  },
+  {
+    "name": "Hunting Bow",
+    "min": "After dealing DMG, there is a 25% chance to inflict [▼Move I] on the target for 1 turn.",
+    "max": "After dealing DMG, there is a 50% chance to inflict [▼Move I] on the target for 1 turn."
+  },
+  {
+    "name": "Gazing Orb",
+    "min": "Deals 6% more DMG when performing a single-target attack.",
+    "max": "Deals 15% more DMG when performing a single-target attack.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Gaze-Orb.webp"
+  },
+  {
+    "name": "Explosive Crystal",
+    "min": "Increases [AoE DMG] by 6%.",
+    "max": "Increases [AoE DMG] by 15%.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Exploding-Crystal-Cluster.webp"
+  },
+  {
+    "name": "Ink Totem",
+    "min": "Healing Effect increases by 5%.",
+    "max": "Healing Effect increases by 10%.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Ink-Totem_card.webp"
+  },
+  {
+    "name": "Rejection Mask",
+    "min": "Magical DMG taken decreases by 20%. CD: 5 turns.",
+    "max": "Magical DMG taken decreases by 30%. CD: 2 turns.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Rejection-Mask_card.webp"
+  },
+  {
+    "name": "Thorny Ring",
+    "min": "When [Injured], increases ATK by 6%.",
+    "max": "When [Injured], increases ATK by 12%."
+  },
+  {
+    "name": "Evergreen Pendent",
+    "min": "When healed, there is a 50% chance to gain 1 random [Level 2 Attribute Buff], which lasts for 2 turns.",
+    "max": "When healed, there is a 100% chance to gain 1 random [Level 2 Attribute Buff], which lasts for 2 turns.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Evergreen-Fall_card.webp"
+  },
+  {
+    "name": "Spring Tonic",
+    "min": "[Instant]. Heals 30%% HP. Can be used up to 1 time per battle.",
+    "max": "[Instant]. Heals 45% HP. Can be used up to 1 time per battle.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/09/Spring-Tonic_card.png"
+  },
+  {
+    "name": "Unique Coat",
+    "min": "Physical DMG taken decreases by 20%. CD: 5 turns.",
+    "max": "Physical DMG taken decreases by 30%. CD: 2 turns.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Unique-Coat_card.webp"
+  },
+  {
+    "name": "Coexist Armor",
+    "min": "DMG taken decreases by 5% when [Healthy].",
+    "max": "DMG taken decreases by 10% when [Healthy].",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Symbiotic-Armor_card.webp"
+  },
+  {
+    "name": "Mist Necklace",
+    "min": "Before being actively attacked, inflicts 1 random [Level 1 Debuff] on the attacker for 2 turns. CD: 5 turns.",
+    "max": "Before being actively attacked, inflicts 2 random [Level 1 Debuff] on the attacker for 2 turns. CD: 2 turns.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/09/Mist-Necklace_card.webp"
+  },
+  {
+    "name": "Disaster Bottle",
+    "min": "Catastrophe: [Instant]. Inflicts 1 random [Level 2 Attribute Debuff] on the enemy. CD: 4 turns.",
+    "max": "Catastrophe: [Instant]. Inflicts 2 random [Level 2 Attribute Debuff] on the enemy. CD: 2 turns.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Disaster-Bottle_card.webp"
+  },
+  {
+    "name": "Cornucopia Series",
+    "min": "At the start of the turn, if the character is [Healthy], there is a 40% chance to recover 2 Energy. If the character is [Dying], there is a 40% chance to recover 30% HP. CD: 3 turns.",
+    "max": "At the start of the turn, if the character is [Healthy], there is a 80% chance to recover 2 Energy. If the character is [Dying], there is a 80% chance to recover 30% HP. CD: 2 turns.",
+    "img": "https://swordofconvallaria.co/wp-content/uploads/2024/08/Cornucopia-Staff_card.webp"
+  }
+]
