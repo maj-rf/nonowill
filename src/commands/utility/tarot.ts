@@ -1,7 +1,10 @@
 import {
-  blockQuote,
+  BaseInteraction,
   ChatInputCommandInteraction,
   SlashCommandBuilder,
+  EmbedBuilder,
+  AttachmentBuilder,
+  CommandInteraction,
 } from 'discord.js';
 import * as tarots from '../data/tarots.json';
 
@@ -42,15 +45,31 @@ export const data = new SlashCommandBuilder()
       ),
   );
 
-export async function execute(interaction: ChatInputCommandInteraction) {
-  const option = interaction.options.getString('tarot');
-  const tarot = tarots.find((tarot) => tarot.id === (option as string));
+function createEmbed(tarot: TTarot) {
+  const file = new AttachmentBuilder(`./assets/tarots/${tarot.id}.webp`);
+  const embed = new EmbedBuilder()
+    .setColor(0x0099ff)
+    .setTitle(tarot.name)
+    .setDescription(tarot.effect)
+    .setThumbnail(`attachment://${tarot.id}.webp`)
+    .addFields({ name: 'Level 60 Effect', value: tarot.unlock });
+  return [embed, file];
+}
+
+export async function execute(interaction: CommandInteraction) {
+  let option: string | null;
+  let tarot: TTarot | undefined;
+  if (interaction instanceof ChatInputCommandInteraction) {
+    option = interaction.options.getString('tarot');
+    tarot = tarots.find((tarot) => tarot.id === option);
+  }
+
   if (!tarot) {
     return interaction.reply('Tarot not found');
   }
-
+  const [embed, file] = createEmbed(tarot);
   return interaction.reply({
-    files: [{ attachment: `./assets/tarots/${tarot.id}.webp` }],
-    content: blockQuote(`Name: ${tarot.name}, Effect: ${tarot.effect}, `),
+    embeds: [embed as EmbedBuilder],
+    files: [file as AttachmentBuilder],
   });
 }

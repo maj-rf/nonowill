@@ -8,14 +8,14 @@
   {
     "id": "fool",
     "name": "Fools's Naivety",
-    "effect": "HP is increased by 10%. When initiating an active attack, if the character’s max HP is greater than by 10%.",
-    "unlock": "HP is additionally increased by 10%. When initiating an active attack, if the character’s HP percentage is greater than the target’s, DMG dealts is additionally increased by 10%."
+    "effect": "HP is increased by 10%. When initiating an active attack, if the character's max HP is greater than by 10%.",
+    "unlock": "HP is additionally increased by 10%. When initiating an active attack, if the character's HP percentage is greater than the target's, DMG dealts is additionally increased by 10%."
   },
   {
     "id": "strength",
     "name": "Source of Strength",
-    "effect": "When attacked by a character of [the character’s Counter Role], DMG taken is decreased by 10%. When attacking a character of [the character’s Counter Role], ignores 15% of the target’s DEF.",
-    "unlock": "When attacked by a character of [the character’s Counter Role], DMG taken is decreased by an additional 10%. When attacking a character of [the character’s Counter Role], ignores an additional 20% of the target’s DEF."
+    "effect": "When attacked by a character of [the character's Counter Role], DMG taken is decreased by 10%. When attacking a character of [the character's Counter Role], ignores 15% of the target's DEF.",
+    "unlock": "When attacked by a character of [the character's Counter Role], DMG taken is decreased by an additional 10%. When attacking a character of [the character's Counter Role], ignores an additional 20% of the target's DEF."
   },
   {
     "id": "magician",
@@ -86,13 +86,13 @@
   {
     "id": "temperance",
     "name": "Desire for Temperance",
-    "effect": "At the start of the battle, gains a [Physical Shield] equal to 25% of the character’s P.ATK plus it’s M.ATK. The shield cannot be dispelled.",
+    "effect": "At the start of the battle, gains a [Physical Shield] equal to 25% of the character's P.ATK plus it's M.ATK. The shield cannot be dispelled.",
     "unlock": "When you have a shield, Decreases DMG taken by 15%."
   },
   {
     "id": "moon",
     "name": "Gibbous Moon",
-    "effect": "At the end of the turn, recovers 20% HP if the character is [Injured]",
+    "effect": "At the end of the turn, recovers 20% HP if the character is [Injured].",
     "unlock": "When the character is [Injured], healing received increases by 15%, and further increases to 30% when in the [Dying] state."
   },
   {
