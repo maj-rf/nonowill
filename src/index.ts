@@ -8,8 +8,11 @@ const client = new Client({
 });
 
 client.once(Events.ClientReady, async (readyClient) => {
-  await deployCommands();
   console.log(`Discord bot is ready! 🤖, Logged in as ${readyClient.user.tag}`);
+});
+
+client.on(Events.GuildCreate, async () => {
+  await deployCommands();
 });
 
 client.on(Events.InteractionCreate, async (interaction) => {

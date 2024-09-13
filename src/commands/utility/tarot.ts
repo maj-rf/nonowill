@@ -52,7 +52,8 @@ function createEmbed(tarot: TTarot) {
     .setTitle(tarot.name)
     .setDescription(tarot.effect)
     .setThumbnail(`attachment://${tarot.id}.webp`)
-    .addFields({ name: 'Level 60 Effect', value: tarot.unlock });
+    .addFields({ name: 'Level 60 Effect', value: tarot.unlock })
+    .setFooter({ text: 'image from swordofconvallaria.co' });
   return [embed, file];
 }
 
